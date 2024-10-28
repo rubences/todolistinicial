@@ -4,3 +4,7 @@ INSERT INTO usuarios (id, email, nombre, password, fecha_nacimiento) VALUES('2',
 INSERT INTO tareas (id, titulo, usuario_id) VALUES('1', 'Lavar coche', '1');
 INSERT INTO tareas (id, titulo, usuario_id) VALUES('2', 'Renovar DNI', '1');
 INSERT INTO tareas (id, titulo, usuario_id) VALUES('3', 'Comprar pan', '1');
+INSERT INTO tareas (id, titulo, usuario_id) VALUES('4', 'Pagar impuestos', '2');
+INSERT INTO tareas (id, titulo, usuario_id) VALUES('5', 'Hacer deporte', '2');
+INSERT INTO tareas (id, titulo, usuario_id) VALUES('6', 'Estudiar', '2');
+
